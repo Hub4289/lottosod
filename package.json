@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "A short description of your syntax theme",
   "keywords": [
-    "syntax",
-    "theme"
+    "test",
+    "test test ทดสอบ"
   ],
-  "repository": "https://github.com/atom/lottosod",
+  "repository": "https://github.com/Hub4289/lottosod",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
